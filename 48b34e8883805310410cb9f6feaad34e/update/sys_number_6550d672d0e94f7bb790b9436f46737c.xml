@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+  <sys_number action="INSERT_OR_UPDATE" apply_defaults="true">
+    <sys_id>6550d672d0e94f7bb790b9436f46737c</sys_id>
+    <sys_scope display_value="x_1994279_test001">48b34e8883805310410cb9f6feaad34e</sys_scope>
+    <sys_update_name>sys_number_6550d672d0e94f7bb790b9436f46737c</sys_update_name>
+    <category>x_1994279_test001_task2</category>
+    <maximum_digits>7</maximum_digits>
+    <number>1000</number>
+    <prefix>TSK2</prefix>
+  </sys_number>
+</record_update>
